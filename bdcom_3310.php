@@ -16,8 +16,6 @@ abstract class Utils
     protected $serial;
     
     /**
-     * Формулы расчета температуры
-     *
      * @param $value
      * @return string|integer
      */
@@ -27,8 +25,6 @@ abstract class Utils
     }
 
     /**
-     * Формулы расчета температуры
-     *
      * @param $value
      * @return string|integer
      */
